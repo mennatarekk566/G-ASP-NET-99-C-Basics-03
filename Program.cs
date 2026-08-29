@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            
+            #region
+            //int pages = 464;
+            //bool IsAvailable = true;
+            //if (IsAvailable == true && pages > 300)
+            //{
+            //    Console.WriteLine("you can borrow this book");
+            //}
+            #endregion
         }
     }
 }
