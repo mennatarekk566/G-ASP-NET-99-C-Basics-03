@@ -31,6 +31,13 @@
             //string page_text = pages > 300 ? "long_book" : "short_book";
             //Console.WriteLine($"your type of book is :{page_text}");
             #endregion
-        }
+            #region
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //for (int i = 0; i < books.Length; i++)
+            //{
+            //    Console.WriteLine($"{i + 1}. {books[i]}");
+            //}
+            #endregion
+            }
     }
 }
