@@ -46,6 +46,15 @@
             //    i++;
             //}
             #endregion
+            #region
+            //int i = 0;
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //do {
+            //    Console.WriteLine(books[i]);
+            //    i++;
+            //}
+            //while (i < books.Length);
+            #endregion
         }
     }
 }
