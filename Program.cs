@@ -26,6 +26,11 @@
             //        break;
             //}
             #endregion
+            #region
+            //int pages = 464;
+            //string page_text = pages > 300 ? "long_book" : "short_book";
+            //Console.WriteLine($"your type of book is :{page_text}");
+            #endregion
         }
     }
 }
