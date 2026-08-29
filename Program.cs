@@ -72,6 +72,17 @@
             //    Console.WriteLine(book);
             //}
             #endregion
-        }
+            #region
+            //string[] books = { "clean code", "the pragmatic programmer", "refactoring" };
+            //foreach (string book in books)
+            //{
+            //    if (book == "the pragmatic programmer")
+            //    {
+            //        continue;
+            //    }
+            //    Console.WriteLine(book);
+            //}
+            #endregion
+            }
     }
 }
