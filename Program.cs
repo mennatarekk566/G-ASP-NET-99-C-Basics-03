@@ -83,6 +83,19 @@
             //    Console.WriteLine(book);
             //}
             #endregion
-            }
+            #region
+        //    string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+        //    PrintFirstBook(books);
+        //}
+
+        //static void PrintFirstBook(string[] books)  
+        //{
+        //    if (books.Length == 0)
+        //    {
+        //        return;
+        //    }
+        //    Console.WriteLine(books[0]);
+        //}
+        #endregion
     }
 }
