@@ -12,6 +12,20 @@
             //    Console.WriteLine("you can borrow this book");
             //}
             #endregion
+            #region
+            //string tittle = "refactoring";
+            //switch(tittle) {
+            //    case "clean_code":
+            //        Console.WriteLine("great choice");
+            //        break;
+            //    case "refactoring":
+            //        Console.WriteLine("nice pick!");
+            //        break;
+            //        default :
+            //        Console.WriteLine("never heard of it or anything else");
+            //        break;
+            //}
+            #endregion
         }
     }
 }
